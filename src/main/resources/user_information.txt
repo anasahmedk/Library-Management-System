@@ -1,0 +1,5 @@
+ADMINISTRATOR,456,Password2,Jane,Ms,Smith,456 Elm St
+LIBRARIAN,789,Password3,Alice,Mrs,Johnson,789 Oak St
+LIBRARIAN,159,Password4,Able,Mr,Khan,18 Leadwood Street
+BORROWER,123,Password1,John,Mr,Doe,123 Main St
+BORROWER,189,Password8,Khan,Ms,Yolo,123 Street
